@@ -6,4 +6,4 @@
 
 | ID | Title | My Solution |
 | --- | --- | --- |
-| [10363](https://platform.stratascratch.com/coding/10363-weekly-orders-report?code_type=5) | Weekly Orders Report | [SQL](Easy/10363_Weekly_Orders_Report.sql)
+| [182](https://leetcode.com/problems/duplicate-emails/) |Duplikate Emails | [SQL](Easy/182_Duplicate_Emails.sql)
