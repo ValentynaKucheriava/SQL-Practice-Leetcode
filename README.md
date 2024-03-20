@@ -1,5 +1,7 @@
 # Leetcode practice exercise - with MS SQL Server
 
+These are scripts that answer questions from [Leetcode](https://leetcode.com/problemset/). Links to questions and my answers are below!
+
 ## My Solutions
 
 ### Difficulty: Easy
