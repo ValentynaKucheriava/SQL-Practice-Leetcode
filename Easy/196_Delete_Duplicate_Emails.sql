@@ -2,10 +2,10 @@
 
 DELETE FROM Person
 WHERE Id NOT IN (
-		SELECT minid
-		FROM(
-				SELECT email, MIN (id) AS minid
-				FROM Person
-				GROUP BY email
-		) a
+	SELECT minid
+FROM(
+	SELECT email, MIN (id) AS minid
+	FROM Person
+	GROUP BY email
+    ) a
 );
