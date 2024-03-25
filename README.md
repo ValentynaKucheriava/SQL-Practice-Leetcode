@@ -1,4 +1,4 @@
-# Leetcode practice exercise - with MS SQL Server
+# Leetcode practice exercise - with PostgreSQL
 
 These are scripts that answer questions from [Leetcode](https://leetcode.com/problemset/). Links to questions and my answers are below!
 
