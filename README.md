@@ -16,6 +16,8 @@ These are scripts that answer questions from [Leetcode](https://leetcode.com/pro
 | [577](https://leetcode.com/problems/employee-bonus/) |Employee Bonus | [SQL](Easy/577_Employee_Bonus.sql)
 | [584](https://leetcode.com/problems/find-customer-referee/description/) | Find Customer Referee| [SQL](Easy/584_Find_Customer_Referee.sql)
 | [595](https://leetcode.com/problems/big-countries/description/) |Big Countries| [SQL](Easy/595_Big_Countries.sql)
+| [596](https://leetcode.com/problems/classes-more-than-5-students/) |Classes More Than 5 Students| [SQL](Easy/596_Classes_More_Than_5_Students.sql)
+
 
 
 
