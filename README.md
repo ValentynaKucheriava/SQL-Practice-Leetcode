@@ -12,5 +12,8 @@ These are scripts that answer questions from [Leetcode](https://leetcode.com/pro
 | [182](https://leetcode.com/problems/duplicate-emails/) |Duplikate Emails | [SQL](Easy/182_Duplicate_Emails.sql)
 | [183](https://leetcode.com/problems/customers-who-never-order/description/) |Customers Who Never Order| [SQL](Easy/183_Customers_Who_Never_Order.sql)
 | [196](https://leetcode.com/problems/delete-duplicate-emails/description/) |Delete Duplicate Emails | [SQL](Easy/196_Delete_Duplicate_Emails.sql)
+| [511](https://leetcode.com/problems/game-play-analysis-i/description/) | Game Play Analysis I | [SQL](Easy/511_Game_Play_Analysis_I.sql)
+
+
 
 
