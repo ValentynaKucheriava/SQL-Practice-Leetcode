@@ -14,6 +14,8 @@ These are scripts that answer questions from [Leetcode](https://leetcode.com/pro
 | [196](https://leetcode.com/problems/delete-duplicate-emails/description/) |Delete Duplicate Emails | [SQL](Easy/196_Delete_Duplicate_Emails.sql)
 | [511](https://leetcode.com/problems/game-play-analysis-i/description/) | Game Play Analysis I | [SQL](Easy/511_Game_Play_Analysis_I.sql)
 | [577](https://leetcode.com/problems/employee-bonus/) |Employee Bonus | [SQL](Easy/577_Employee_Bonus.sql)
+| [584](https://leetcode.com/problems/find-customer-referee/description/) | Find Customer Referee| [SQL](Easy/584_Find_Customer_Referee.sql)
+
 
 
 
