@@ -15,6 +15,9 @@ These are scripts that answer questions from [Leetcode](https://leetcode.com/pro
 | [511](https://leetcode.com/problems/game-play-analysis-i/description/) | Game Play Analysis I | [SQL](Easy/511_Game_Play_Analysis_I.sql)
 | [577](https://leetcode.com/problems/employee-bonus/) |Employee Bonus | [SQL](Easy/577_Employee_Bonus.sql)
 | [584](https://leetcode.com/problems/find-customer-referee/description/) | Find Customer Referee| [SQL](Easy/584_Find_Customer_Referee.sql)
+| [595](https://leetcode.com/problems/big-countries/description/) |Big Countries| [SQL](Easy/595_Big_Countries.sql)
+
+
 
 
 
