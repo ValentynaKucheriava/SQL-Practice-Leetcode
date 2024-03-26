@@ -17,7 +17,7 @@ These are scripts that answer questions from [Leetcode](https://leetcode.com/pro
 | [584](https://leetcode.com/problems/find-customer-referee/description/) | Find Customer Referee| [SQL](Easy/584_Find_Customer_Referee.sql)
 | [595](https://leetcode.com/problems/big-countries/description/) |Big Countries| [SQL](Easy/595_Big_Countries.sql)
 | [596](https://leetcode.com/problems/classes-more-than-5-students/) |Classes More Than 5 Students| [SQL](Easy/596_Classes_More_Than_5_Students.sql)
-| [610](https://leetcode.com/problems/triangle-judgement/description/) |Triangle Judgement| [SQL](Easy/610_ Triangle_Judgement.sql)
+| [610](https://leetcode.com/problems/triangle-judgement/description/) |Triangle Judgement| [SQL](Easy/610_Triangle_Judgement.sql)
 
 
 
