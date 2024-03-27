@@ -20,7 +20,7 @@ These are scripts that answer questions from [Leetcode](https://leetcode.com/pro
 | [610](https://leetcode.com/problems/triangle-judgement/description/) |Triangle Judgement| [SQL](Easy/)
 | [619](https://leetcode.com/problems/biggest-single-number/description/) | Biggest Single Number| [SQL](Easy/619_Biggest_Single_Number.sql)
 | [620](https://leetcode.com/problems/not-boring-movies/description/) |Not Boring Movies| [SQL](Easy/620_Not_Boring_Movies.sql)
-| [1050](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/description/) |Actors and Directors Who Cooperated At Least Three Times| [SQL]Easy/1050_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql)
+| [1050](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/description/) |Actors and Directors Who Cooperated At Least Three Times| [SQL](Easy/1050_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql)
 
 
 
