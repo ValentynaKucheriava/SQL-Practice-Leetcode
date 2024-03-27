@@ -18,7 +18,7 @@ These are scripts that answer questions from [Leetcode](https://leetcode.com/pro
 | [595](https://leetcode.com/problems/big-countries/description/) |Big Countries| [SQL](Easy/595_Big_Countries.sql)
 | [596](https://leetcode.com/problems/classes-more-than-5-students/) |Classes More Than 5 Students| [SQL](Easy/596_Classes_More_Than_5_Students.sql)
 | [610](https://leetcode.com/problems/triangle-judgement/description/) |Triangle Judgement| [SQL](Easy/)
-| [619](https://leetcode.com/problems/biggest-single-number/description/) | Biggest Single Number| [SQL](Easy/Easy/619_Biggest_Single_Number.sql)
+| [619](https://leetcode.com/problems/biggest-single-number/description/) | Biggest Single Number| [SQL](Easy/619_Biggest_Single_Number.sql)
 | [620](https://leetcode.com/problems/not-boring-movies/description/) |Not Boring Movies| [SQL](Easy/620_Not_Boring_Movies.sql)
 
 
