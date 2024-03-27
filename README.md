@@ -22,6 +22,8 @@ These are scripts that answer questions from [Leetcode](https://leetcode.com/pro
 | [620](https://leetcode.com/problems/not-boring-movies/description/) |Not Boring Movies| [SQL](Easy/620_Not_Boring_Movies.sql)
 | [1050](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/description/) |Actors and Directors Who Cooperated At Least Three Times| [SQL](Easy/1050_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql)
 | [1075](https://leetcode.com/problems/project-employees-i/) |Project Employees I| [SQL](Easy/1075_Project_Employees_I.sql)
+| [1148](https://leetcode.com/problems/article-views-i/description/) |Article Views I| [SQL](Easy/1148_Article_Views_I.sql)
+
 
 
 
